@@ -8,3 +8,6 @@ Steps:
 - Use Athena to query
 - Use Lambda to query
 - process the data and save in S3
+
+Resources:
+- https://www.debadityachakravorty.com/cloud/lambdaathena/
